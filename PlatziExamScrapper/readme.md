@@ -2,8 +2,8 @@
 ## _Save your Platzi exams for future use or study._
 
 You will need:
-Dowload the html of the exam
-ChromeDriver
+- Dowload the html of the exam
+- ChromeDriver
 
 Run:
 
