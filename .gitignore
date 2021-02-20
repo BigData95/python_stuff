@@ -1,0 +1,10 @@
+__pychache__/
+*.pyc
+.idea
+.idea/
+.vscode
+.vscode/
+env/
+.env/
+.enviro
+
